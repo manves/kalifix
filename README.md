@@ -7,5 +7,8 @@ Updates will be in the future.
 to use just
 git clone https://github.com/manves/kalifix
 cd kalifix
+<!---
+test
+-->
 chmod +x kalifix.sh ./kalifix.sh or bash kalifix.sh
 there is a shebang that points to the bash interpreter so if you run it without the "bash" it will still run.
