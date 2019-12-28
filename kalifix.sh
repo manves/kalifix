@@ -7,7 +7,7 @@ sleep 3s
 echo "deb http://http.kali.org/kali kali-rolling main non-free contrib" >> /etc/apt/sources.list
 echo "Now Adding package Sources please wait"
 sleep 5s
-echo "deb-src http://http.kali.org/kali kali-rolling main non-free contrib" >> /etc/sources.list
+echo "deb-src http://http.kali.org/kali kali-rolling main non-free contrib" >> /etc/apt/sources.list
 sleep 2s
 echo "All Done should be able to update and upgrade and use Kali linux tools in other OS"
 sleep 1s
